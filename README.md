@@ -41,8 +41,8 @@ Welcome to my GitHub! I'm an aspiring **Frontend/Fullstack Developer**, currentl
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartenZ&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartenZ&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martenzoe&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martenzoe&layout=compact&theme=radical)
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my GitHub! I'm an aspiring **Frontend/Fullstack Developer**, currentl
 
 <p align="left">
 <a href="https://www.linkedin.com/in/marten-zöllner-230b39212" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:martenz@outlook.de"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:biz.zoellner@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
